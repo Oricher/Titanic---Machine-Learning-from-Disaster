@@ -1,6 +1,8 @@
 # Titanic---Machine-Learning-from-Disaster
 Projeto de análise e predição de sobreviventes do Titanic, baseado no clássico dataset da Kaggle.
 
+Link do projeto no Google Colab: https://colab.research.google.com/drive/1h1EOhTNSp6nI1YWLUhgbADW0Cx5XF0jD
+
 ## 🎯 Objetivo
 Prever quais passageiros sobreviveram ao naufrágio usando técnicas de aprendizado de máquina.
 
